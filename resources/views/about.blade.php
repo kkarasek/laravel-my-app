@@ -6,6 +6,8 @@
         <title>{{ config('app.name', 'My App') }}</title>
     </head>
     <body>
-        <h1>Hello Laravel 🍃</h1>
+        <h1>About us</h1>
+
+        <a href="/">Back to Homepage</a>
     </body>
 </html>
